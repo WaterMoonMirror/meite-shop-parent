@@ -1,0 +1,6 @@
+# Project exclude paths
+/meite-shop-basics/meite-shop-basics-springcloud-eureka/target/
+/meite-shop-service/meite-shop-service-member/target/
+/meite-shop-service/meite-shop-service-weixin/target/
+/meite-shop-service-api/meite-shop-service-api-member/target/
+/meite-shop-service-api/meite-shop-service-api-weixin/target/
